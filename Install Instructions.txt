@@ -1,0 +1,20 @@
+Connect your app
+
+Push some code to build, test, and deploy your app. Follow the instructions below to get started.
+1. Install the latest Ionic CLI
+
+npm install -g ionic@latest
+2. Connect your app to Ionic Pro
+
+START A NEW APP
+CONNECT EXISTING APP
+ionic start --pro-id 666aa99b
+cd mychef
+3. Push your code up to the dashboard!
+
+Install Git on your desktop.
+git push ionic master
+4. Add your own external Repository as the default origin (optional)
+
+git remote add origin [YOUR_REPOSITORY_URL]
+git push --set-upstream origin master
